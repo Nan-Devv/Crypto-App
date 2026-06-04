@@ -66,6 +66,11 @@ import CryptoList from "../components/CryptoList.vue";
 export default {
   name: "HomePage",
   components: {
+    IonPage,
+    IonContent,
+    IonRefresher,
+    IonRefresherContent,
+    IonSpinner,
     CryptoOverview,
     CryptoTopCards,
     CryptoList
