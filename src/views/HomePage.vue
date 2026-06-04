@@ -62,6 +62,13 @@ import axios from "axios";
 import CryptoOverview from "../components/CryptoOverview.vue";
 import CryptoTopCards from "../components/CryptoTopCards.vue";
 import CryptoList from "../components/CryptoList.vue";
+import {
+  IonPage,
+  IonContent,
+  IonRefresher,
+  IonRefresherContent,
+  IonSpinner
+} from '@ionic/vue'
 
 export default {
   name: "HomePage",
