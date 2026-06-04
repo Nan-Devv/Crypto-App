@@ -181,7 +181,7 @@ export default {
     width: 100%;
   }
   40% {
-    width: 59%;
+    width: 65%;
   }
   100% {
     width: 0;
