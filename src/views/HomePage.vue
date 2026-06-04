@@ -180,8 +180,8 @@ export default {
   40% {
     width: 100%;
   }
-  40% {
-    width: 65%;
+  45% {
+    width: 60%;
   }
   100% {
     width: 0;
